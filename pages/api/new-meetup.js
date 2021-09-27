@@ -1,4 +1,4 @@
-import { db } from "../config/firebase";
+import { db } from "../../config/firebase";
 
 async function handler(req, res) {
   if (req.method === "POST") {
