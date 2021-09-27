@@ -1,5 +1,5 @@
 import MeetupList from "../components/meetups/MeetupList";
-import { db } from "./config/firebase";
+import { db } from "../config/firebase";
 import Head from "next/head";
 
 function HomePage(props) {

@@ -1,5 +1,5 @@
 import MeetupDetail from "../../components/meetups/MeetupDetail";
-import { db } from "../config/firebase";
+import { db } from "../../config/firebase";
 import Head from "next/head";
 import { useRouter } from "next/router";
 
